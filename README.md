@@ -1,4 +1,3 @@
-# difStudyTasks
-implementation of different small algorithms in python
+# dynamic programming algorithm 
 
-dynamicProg = example of dynamic programming algorithm 
+dynamicProg = it is an implementation of dynamic programming algorithm 
